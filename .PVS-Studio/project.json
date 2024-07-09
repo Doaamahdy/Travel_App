@@ -1,0 +1,61 @@
+{
+  "modules": [
+    {
+      "name": "app",
+      "path": "c:\\development\\flutter-apps\\my_app\\android\\app\\",
+      "sources": [
+        "c:\\development\\flutter-apps\\my_app\\android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java"
+      ],
+      "testSources": [],
+      "generatedSources": [],
+      "classpath": []
+    },
+    {
+      "name": "gradle",
+      "path": "c:\\development\\flutter\\packages\\flutter_tools\\gradle\\",
+      "sources": [
+        "c:\\development\\flutter\\packages\\flutter_tools\\gradle\\bin\\",
+        "c:\\development\\flutter\\packages\\flutter_tools\\gradle\\build\\"
+      ],
+      "testSources": [],
+      "generatedSources": [
+        "c:\\development\\flutter\\packages\\flutter_tools\\gradle\\bin\\",
+        "c:\\development\\flutter\\packages\\flutter_tools\\gradle\\build\\"
+      ],
+      "classpath": [
+        "C:\\development\\flutter\\packages\\flutter_tools\\gradle\\bin\\main",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android.tools.build\\gradle\\7.3.0\\be9ab65ed6851ea58950c9a9e67216c3309bdc32\\gradle-7.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android.tools.build\\builder\\7.3.0\\5cc912e81dea92f26b5cc8e4af1bc17c2337be2\\builder-7.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android.tools.build\\builder-model\\7.3.0\\932e7d7cb3285a03e475571bf95b13c02172c116\\builder-model-7.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android.tools.build\\gradle-api\\7.3.0\\8301d8b35a04dd2e6c9dab278b055488009ea2da\\gradle-api-7.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android.tools.build\\manifest-merger\\30.3.0\\7a30c0a869520283f36575546563adb79cac6fdc\\manifest-merger-30.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android\\zipflinger\\7.3.0\\16999dcec6ec960f9dc53c76081936bd545b4dc9\\zipflinger-7.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android.tools.build\\apksig\\7.3.0\\46b1d756b1dd2f41714f24c84b611306d39ec065\\apksig-7.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.android.tools.build\\apkzlib\\7.3.0\\5b1abe37db589a8c57e1023c0c709d41424d87dd\\apkzlib-7.3.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\com.squareup\\javawriter\\2.5.0\\81241ff7078ef14f42ea2a8995fa09c096256e6b\\javawriter-2.5.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\modules-2\\files-2.1\\org.ow2.asm\\asm\\9.1\\a99500cf6eea30535eeac6be73899d048f8d12a8\\asm-9.1.jar",
+        "C:\\Users\\Doaa\\.gradle\\caches\\7.6.3\\generated-gradle-jars\\gradle-api-7.6.3.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-ant-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-astbuilder-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-console-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-datetime-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-dateutil-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-groovydoc-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-json-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-nio-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-sql-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-templates-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-test-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\groovy-xml-3.0.13.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\javaparser-core-3.17.0.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\kotlin-stdlib-1.7.10.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\kotlin-stdlib-common-1.7.10.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\kotlin-reflect-1.7.10.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\kotlin-stdlib-jdk7-1.7.10.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\kotlin-stdlib-jdk8-1.7.10.jar",
+        "C:\\Users\\Doaa\\.gradle\\wrapper\\dists\\gradle-7.6.3-all\\aocdy2d2z8kodnny3rsumj8i8\\gradle-7.6.3\\lib\\gradle-installation-beacon-7.6.3.jar"
+      ]
+    }
+  ]
+}
