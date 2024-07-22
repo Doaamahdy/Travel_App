@@ -101,8 +101,9 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                 ),
                 //tab View
                 GestureDetector(
-                  onTap: () {
-                    BlocProvider.of<AppCubits>(context).detailPage(id);
+                  onTap: (){
+                    
+                    BlockPr
                   },
                   child: Container(
                     height: 300,
