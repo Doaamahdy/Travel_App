@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:my_app/cubit/app_cubit_states.dart';
 import 'package:my_app/cubit/app_cubits.dart';
 import 'package:my_app/misc/colors.dart';
+import 'package:my_app/pages/detailsPage.dart';
 import 'package:my_app/pages/homePage.dart';
 import 'package:my_app/pages/welcomPage.dart';
 
@@ -28,6 +29,8 @@ class _AppCubitLogicsState extends State<AppCubitLogics> {
               color: AppColr.mainColor,
             ),
           );
+        } else if (state is DetailState) {
+          return DetailsPage();
         } else {
           return Container();
         }
